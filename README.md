@@ -2,11 +2,12 @@ Formazione Futura
 
 Sito web responsive per la presentazione dei corsi di Formazione Futura con sezioni istituzionali, numeri chiave e form di contatto con validazione in tempo reale lato client.
 
- Funzionalità principali
+
+Funzionalità principali
 
 Layout responsive con Bootstrap + media query personalizzate.
 
-Navbar con dropdown e voci “i Nostri Corsi” / “Sedi”.
+Navbar con dropdown e voci “I Nostri Corsi” / “Sedi”.
 
 Hero con titolo, claim e immagine di apertura.
 
@@ -22,30 +23,17 @@ Validazione live di nome, cognome, email, numero (10 cifre), età (≥ 18), gene
 
 Messaggi di errore e di campo valido.
 
-Messaggio di conferma “Messaggio inviato con successo!” alla validazione completa.
+Messaggio di conferma “Messaggio inviato con successo” alla validazione completa.
 
-Reset automatico dei campi dopo l’invio simulato.
+ 
+ Tecnologie utilizzate
 
-Animazioni on scroll con libreria AOS.
+HTML5
 
+CSS3
 
- Validazione (JavaScript)
+Bootstrap 5
 
-Nome: minimo 3 caratteri alfabetici.
+JavaScript (vanilla)
 
-Cognome: minimo 5 caratteri alfabetici.
-
-Email: formato valido.
-
-Numero: 10 cifre.
-
-Età: ≥ 18.
-
-Genere: uno tra maschio/femmina selezionato.
-
-
-UX:
-
-Messaggi di errore mostrati/nascosti dinamicamente.
-
-Messaggio di conferma nascosto quando l’utente entra (focus) in un qualsiasi campo per modificare dati.
+AOS.js per le animazioni
