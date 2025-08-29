@@ -1,6 +1,6 @@
 Sito web responsive per la presentazione dei corsi di Formazione Futura con sezioni istituzionali, numeri chiave e form di contatto con validazione in tempo reale lato client.
 
-✨ Funzionalità principali
+ Funzionalità principali
 
 Layout responsive con Bootstrap + media query personalizzate.
 
