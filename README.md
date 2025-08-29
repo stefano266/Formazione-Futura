@@ -1,3 +1,5 @@
+Formazione Futura
+
 Sito web responsive per la presentazione dei corsi di Formazione Futura con sezioni istituzionali, numeri chiave e form di contatto con validazione in tempo reale lato client.
 
  Funzionalità principali
@@ -26,19 +28,10 @@ Reset automatico dei campi dopo l’invio simulato.
 
 Animazioni on scroll con libreria AOS.
 
-🧠 Validazione (JavaScript)
 
-Regex:
+ Validazione (JavaScript)
 
-caratteri per lettere e spazi (supporta accenti): ^[A-Za-zÀ-ÖØ-öø-ÿ\s]+$
-
-emailValidità per formato email: ^[^\s@]+@[^\s@]+\.[^\s@]+$
-
-regexNumero per telefono: ^\d{10}$
-
-Regole:
-
-Nome: minimo 5 caratteri alfabetici.
+Nome: minimo 3 caratteri alfabetici.
 
 Cognome: minimo 5 caratteri alfabetici.
 
@@ -49,6 +42,7 @@ Numero: 10 cifre.
 Età: ≥ 18.
 
 Genere: uno tra maschio/femmina selezionato.
+
 
 UX:
 
